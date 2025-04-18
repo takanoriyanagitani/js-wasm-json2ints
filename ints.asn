@@ -1,0 +1,5 @@
+IntArray DEFINITIONS ::= BEGIN
+
+  Integers ::= SEQUENCE OF INTEGER
+
+END
